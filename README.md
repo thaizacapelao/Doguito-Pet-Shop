@@ -11,8 +11,7 @@ versão desktop:
 versão mobile:
 <br> <br>
 
-![firefox_JpdchYoenv](https://user-images.githubusercontent.com/104083691/186162511-ef1ec8da-95dc-4a8e-be29-dd7c80e74e67.gif)![firefox_6Nb2gx7EuK](https://user-images.githubusercontent.com/104083691/186162864-16706b7c-5b11-4118-9d8f-7aa38aa4504e.png)
-
+![firefox_JpdchYoenv](https://user-images.githubusercontent.com/104083691/186162511-ef1ec8da-95dc-4a8e-be29-dd7c80e74e67.gif)![Doguito2](https://user-images.githubusercontent.com/104083691/186163583-8c43d559-f075-4645-a0c3-ad2dc968cacc.png)
 
 ##
 
