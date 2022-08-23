@@ -3,9 +3,15 @@
 versão desktop: 
 <br><br>
 
+![firefox_ADvswiODoi](https://user-images.githubusercontent.com/104083691/186161783-35f594ce-2aa9-4188-9cfa-9c3be41893a8.gif)
+
+
+![firefox_1FIvd7KbZF](https://user-images.githubusercontent.com/104083691/186161927-42ef515d-642b-44c2-9622-e0444f5b8e6d.png)
 
 versão mobile:
 <br> <br>
+
+![firefox_JpdchYoenv](https://user-images.githubusercontent.com/104083691/186162511-ef1ec8da-95dc-4a8e-be29-dd7c80e74e67.gif)![firefox_6Nb2gx7EuK](https://user-images.githubusercontent.com/104083691/186162864-16706b7c-5b11-4118-9d8f-7aa38aa4504e.png)
 
 
 ##
