@@ -39,4 +39,4 @@ Site de cadastro.
 
 ## 🔖 Layout:
 
-Você pode visualizar o layout do projeto através [desse link](https://thaizacapelao.github.io/Alura-Books/).
+Você pode visualizar o layout do projeto através [desse link]().
