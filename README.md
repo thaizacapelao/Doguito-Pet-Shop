@@ -3,8 +3,6 @@
 versão desktop: 
 <br><br>
 
-![firefox_chs0jXgNMP](https://user-images.githubusercontent.com/104083691/179801608-82b4e772-3f47-41e0-a119-2330aeb416db.gif)
-
 
 versão mobile:
 <br> <br>
