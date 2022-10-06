@@ -29,6 +29,7 @@ Site de cadastro.
 -   [ ] Criação de Cards;
 -   [ ] Construção de um menu hamburguer utilizando apenas CSS;
 -   [ ] Aplicando plugins externos através de CDN;
+-   [ ] Inserindo Formik nos campos;
 
 
 ## ✨ Linguagens utilizadas:
